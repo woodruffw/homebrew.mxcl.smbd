@@ -3,7 +3,7 @@
 <plist version="1.0">
 	<dict>
 		<key>Label</key>
-		<string>homebrew.mxcl.samba</string>
+		<string>homebrew.mxcl.smbd</string>
 		<key>ProgramArguments</key>
 		<array>
 			<string>/usr/local/sbin/smbd</string>
