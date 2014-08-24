@@ -1,6 +1,8 @@
 homebrew.mxcl.smbd
 ===================
 
+**UPDATE**: A version of this plist is now available directly within the `samba` formula on homebrew. For installation instructions, follow `brew info samba`.
+
 A simple property list (plist) file for use in `launchd`/`launchctl` on systems with samba installed via Homebrew.
 
 Assumes that `smbd` is installed to */usr/local/sbin/smbd* and that `smb.conf` is installed to */usr/local/etc/smb.conf*.
